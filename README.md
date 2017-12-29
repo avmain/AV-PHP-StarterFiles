@@ -7,7 +7,7 @@ Please follow the instructions according to your OS.
 
 1. Clone this repository.
 ```
-git clone https://github.com/Princeyadav05/AV-PHP-StarterFiles.git
+git clone https://github.com/avmain/AV-PHP-StarterFiles.git
 ```
 
 2. Run the **install-php.bat** file as admin.
@@ -27,7 +27,7 @@ composer require dimabdc/php-fast-simple-html-dom-parser
 
 1. Clone this repository.
 ```
-git clone https://github.com/Princeyadav05/AV-PHP-StarterFiles.git
+git clone https://github.com/avmain/AV-PHP-StarterFiles.git
 ```
 
 2. Install PHP using the following command:
